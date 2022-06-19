@@ -312,6 +312,10 @@
   height: var(--dl-size-size-small);
 }
 @media(max-width: 767px) {
+  .usloviq-container2 {
+    flex: 0 0 auto;
+    width: 80%;
+  }
   .usloviq-header {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);

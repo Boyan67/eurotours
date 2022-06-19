@@ -418,14 +418,11 @@
   text-align: center;
   transition: 0.3s;
   margin-left: 0px;
-  padding-top: 10px;
   border-color: #ffffff;
   border-width: 2px;
   margin-right: 0px;
-  padding-left: 5px;
   border-radius: 0px;
-  padding-right: 5px;
-  padding-bottom: 10px;
+  padding: 10px 5px;
   background-color: #ff6600;
 }
 .home-button08:hover {
