@@ -2,6 +2,35 @@
   font-family: Inter;
   line-height: 1.15;
 }
+
+
+a, a:hover{
+  text-decoration: none;
+  color: inherit;
+  outline: 0;
+}
+
+.custom-btn{
+  background-color: #ff6600;
+  border-color: #ff6600;
+  color: #ffffff;
+  margin-right: 20px
+}
+
+.custom-btn:hover{
+  background-color: #fff;
+  border-color: #ff6600;
+}
+
+.custom-btn.active{
+  background-color: #fff;
+}
+
+
+.custom-btn:hover i {
+  color: #ff6600;
+}
+
 :root {
   --dl-color-gray-500: #595959;
   --dl-color-gray-700: #999999;
