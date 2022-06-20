@@ -508,6 +508,11 @@
   height: var(--dl-size-size-small);
 }
 @media(max-width: 767px) {
+
+  .trip-detail-container03 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
   .trip-detail-header {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
